@@ -1,0 +1,7 @@
+Scenario ID,Site ID,Issue,Affected Milestone,Delay Days,Resource Conflict,Proposed Action
+SCN-01,SITE-101,Permit approval delayed,Permitting,4,No,Move equipment staging forward while permit remains pending
+SCN-02,SITE-102,Installation crew unavailable,Installation,3,Yes,Reassign Crew B after SITE-101 installation
+SCN-03,SITE-103,Equipment delivery delayed,Equipment Delivery,5,No,Resequence site preparation activities
+SCN-04,SITE-104,Survey engineer double-booked,Site Survey,2,Yes,Move survey to alternate engineer
+SCN-05,SITE-105,Acceptance engineer unavailable,Acceptance,2,Yes,Schedule remote acceptance review
+SCN-06,SITE-103,Permit and crew timing overlap,Installation,3,Yes,Shift crew to SITE-105 until permit clears

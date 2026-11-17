@@ -1,0 +1,6 @@
+Action ID,Site ID,Action,Owner,Due Date,Status
+ACT-001,SITE-101,Confirm revised permit date,PM Coordinator,2027-05-12,Open
+ACT-002,SITE-102,Confirm alternate installation crew,Project Manager,2027-05-15,In Progress
+ACT-003,SITE-103,Confirm equipment shipment ETA,Logistics,2027-05-18,Open
+ACT-004,SITE-104,Assign alternate survey engineer,Resource Manager,2027-05-10,Complete
+ACT-005,SITE-105,Schedule acceptance reviewer,Project Manager,2027-05-25,Open

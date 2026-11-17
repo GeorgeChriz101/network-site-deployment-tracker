@@ -1,0 +1,26 @@
+Site ID,Milestone,Owner,Planned Start,Planned End,Dependency,Status,Percent Complete
+SITE-101,Site Survey,Field Engineer,2027-05-03,2027-05-05,None,Complete,100
+SITE-101,Permitting,PM Coordinator,2027-05-06,2027-05-10,Site Survey,Complete,100
+SITE-101,Equipment Delivery,Logistics,2027-05-11,2027-05-13,Permitting,On Track,0
+SITE-101,Installation,Installation Crew,2027-05-14,2027-05-17,Equipment Delivery,On Track,0
+SITE-101,Acceptance,Project Manager,2027-05-18,2027-05-19,Installation,On Track,0
+SITE-102,Site Survey,Field Engineer,2027-05-06,2027-05-08,None,Complete,100
+SITE-102,Permitting,PM Coordinator,2027-05-09,2027-05-13,Site Survey,On Track,0
+SITE-102,Equipment Delivery,Logistics,2027-05-14,2027-05-16,Permitting,On Track,0
+SITE-102,Installation,Installation Crew,2027-05-17,2027-05-20,Equipment Delivery,On Track,0
+SITE-102,Acceptance,Project Manager,2027-05-21,2027-05-22,Installation,On Track,0
+SITE-103,Site Survey,Field Engineer,2027-05-09,2027-05-11,None,On Track,0
+SITE-103,Permitting,PM Coordinator,2027-05-12,2027-05-16,Site Survey,On Track,0
+SITE-103,Equipment Delivery,Logistics,2027-05-17,2027-05-19,Permitting,On Track,0
+SITE-103,Installation,Installation Crew,2027-05-20,2027-05-23,Equipment Delivery,On Track,0
+SITE-103,Acceptance,Project Manager,2027-05-24,2027-05-25,Installation,On Track,0
+SITE-104,Site Survey,Field Engineer,2027-05-12,2027-05-14,None,On Track,0
+SITE-104,Permitting,PM Coordinator,2027-05-15,2027-05-19,Site Survey,On Track,0
+SITE-104,Equipment Delivery,Logistics,2027-05-20,2027-05-22,Permitting,On Track,0
+SITE-104,Installation,Installation Crew,2027-05-23,2027-05-26,Equipment Delivery,On Track,0
+SITE-104,Acceptance,Project Manager,2027-05-27,2027-05-28,Installation,On Track,0
+SITE-105,Site Survey,Field Engineer,2027-05-15,2027-05-17,None,On Track,0
+SITE-105,Permitting,PM Coordinator,2027-05-18,2027-05-22,Site Survey,On Track,0
+SITE-105,Equipment Delivery,Logistics,2027-05-23,2027-05-25,Permitting,On Track,0
+SITE-105,Installation,Installation Crew,2027-05-26,2027-05-29,Equipment Delivery,On Track,0
+SITE-105,Acceptance,Project Manager,2027-05-30,2027-05-31,Installation,On Track,0
